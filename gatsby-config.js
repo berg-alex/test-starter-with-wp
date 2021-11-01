@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Cara`,
     siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
     siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `http://34.213.151.126/graphql`,
+    siteUrl: `http://wp.ab-digital/graphql`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
