@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^1.2.20",
+    "@react-spring/parallax": "^9.3.0",
     "gatsby": "^2.32.13",
     "gatsby-plugin-gatsby-cloud": "^1.0.2",
     "gatsby-plugin-manifest": "^2.12.1",
